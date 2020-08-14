@@ -1,6 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## Coursera Programming Assignment 2: Lexical Scoping (Rod)
 ## Write a short comment describing this function
 # input x is set as a matrix and solved value 's' is set as NULL
 
